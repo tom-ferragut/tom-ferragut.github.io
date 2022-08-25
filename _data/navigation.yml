@@ -3,11 +3,9 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Projects"
-    url: /projects/
+  - title: "Test2"
+    url: /test2/
   - title: "Teachings"
     url: /teachings/
-  - title: "Reminders"
-    url: /reminders/
   - title: "CV"
     url: /cv/
