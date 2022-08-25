@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 toc_icon: "swatchbook"
-permalink: /projects/
+permalink: /test2/
 author_profile: true
 header:
   overlay_color: "#000"
