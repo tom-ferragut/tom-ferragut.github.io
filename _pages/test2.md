@@ -1,5 +1,5 @@
 ---
-title: "Test2"
+title: "test2"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
