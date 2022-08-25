@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email: tanguy_l@outlook.fr
+email: tom.ferragut@hotmail.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website to keep track of projects over the time. (hopefully)
+  This is a website in construction.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tanglef.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  tanglef
+url: "https://tom-ferragut.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tom-ferragut
 github: [metadata]
 # Build settings
 markdown: kramdown
@@ -99,11 +99,11 @@ defaults:
 
 
 author:
-  name: "Tanguy Lefort"
+  name: "Tom Ferragut"
   avatar: "https://avatars3.githubusercontent.com/u/57089823?s=460&v=4"
-  bio: "PhD Student in statistics" # Note: Markdown is allowed
+  bio: "Postdoctorant in Geometric group theory" # Note: Markdown is allowed
   location: "Montpellier, France"
-  email            : "tanguy_l@outlook.fr"
+  email            : "tom.ferragut@hotmail.fr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -112,26 +112,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tanglef"
+  github           : "tom-ferragut"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : #"tanguy_lef"
+  instagram        : 
   lastfm           :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : 
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # maybe...
+  youtube          : 
   links:
-    - label: "Reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: "https://www.reddit.com/user/tanglef"
+   
 
 
 # Site
