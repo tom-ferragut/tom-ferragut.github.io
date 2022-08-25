@@ -35,9 +35,6 @@ include: ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
 
 
 collections:
-  reminders:
-    output: true
-    permalink: /:collection/:path/
   teachings:
     output: true
     permalink: /:collection/:path/
@@ -64,21 +61,6 @@ defaults:
       layout: single
       author_profile: true
 
-  # _reminders
-  - scope:
-      path: ""
-      type: reminders
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      output: true
-      toc: true
-      toc_label: "Contents"
-      toc_icon: "swatchbook"
-      sidebar: main
-      classes: wide
-      usemathjax: true
 
   # _teachings
   - scope:
@@ -112,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tom-ferragut"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
