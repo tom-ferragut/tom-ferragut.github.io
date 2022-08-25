@@ -1,0 +1,165 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Home
+email: tanguy_l@outlook.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a website to keep track of projects over the time. (hopefully)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tanglef.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tanglef
+github: [metadata]
+# Build settings
+markdown: kramdown
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+google-site-verification: "OgwS0LYcWEjpM3fh5E4_HJEz8lFsyImPleGVt4alYe0"
+include: ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
+
+
+collections:
+  reminders:
+    output: true
+    permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
+
+
+# default configurations for each type
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      comments: true
+      share: true
+      author_profile: true
+      classes: wide
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _reminders
+  - scope:
+      path: ""
+      type: reminders
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
+      usemathjax: true
+
+  # _teachings
+  - scope:
+      path: ""
+      type: teachings
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
+      usemathjax: true
+
+
+
+author:
+  name: "Tanguy Lefort"
+  avatar: "https://avatars3.githubusercontent.com/u/57089823?s=460&v=4"
+  bio: "PhD Student in statistics" # Note: Markdown is allowed
+  location: "Montpellier, France"
+  email            : "tanguy_l@outlook.fr"
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "tanglef"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : #"tanguy_lef"
+  lastfm           :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # maybe...
+  links:
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/tanglef"
+
+
+# Site
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+
+
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+# maybe ?
+#      toc: true
+#      toc_label: "Contents"
+#      toc_icon: "swatchbook"
+#      sidebar: main
