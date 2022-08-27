@@ -82,7 +82,7 @@ defaults:
 
 author:
   name: "Tom Ferragut"
-  avatar: "https://avatars3.githubusercontent.com/u/57089823?s=460&v=4"
+  avatar: 
   bio: "Postdoctorant in Geometric group theory" # Note: Markdown is allowed
   location: "Montpellier, France"
   email            : "tom dot ferragut at umontpellier dot fr"
