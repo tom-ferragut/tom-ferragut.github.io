@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email: tom.ferragut@hotmail.fr
+email: tom dot ferragut at umontpellier dot fr
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website in construction.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -85,7 +85,7 @@ author:
   avatar: "https://avatars3.githubusercontent.com/u/57089823?s=460&v=4"
   bio: "Postdoctorant in Geometric group theory" # Note: Markdown is allowed
   location: "Montpellier, France"
-  email            : "tom.ferragut@hotmail.fr"
+  email            : "tom dot ferragut at umontpellier dot fr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
