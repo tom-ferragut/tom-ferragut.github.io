@@ -1,6 +1,6 @@
 ---
-title: "test2"
-permalink: /test2/
+title: "gallery"
+permalink: /gallery/
 author_profile: true
 header:
   overlay_color: "#000"
@@ -13,12 +13,12 @@ classes: wide
 internship:
   - image_path: /_data/images/building_interactions.png
     alt: "interaction with blocks"
-    excerpt: "Memory usage with GPU was a big part of this work. Dataset dimensions quickly lead to memory errors. Interactions thus needed to be computed on the fly, but using too little memory is not efficient for GPU computation."
+    excerpt: "Figure 1"
   - image_path: /_data/images/cd_intuition.png
     alt: "optimization"
-    excerpt: "Comparison between Gradient descent and Coordinate descent. The step size choice lead to developpements of the Lanczos method in order to have quickly a good estimate of the Lipschitz constant."
+    excerpt: "Figure 2"
   - image_path: /_data/images/transcription_dna.png
-    excerpt: "Application to Genomics data."
+    excerpt: "Figure 3"
     
 master:
   -blabla
