@@ -28,4 +28,3 @@ I did my PhD under the supervision of [Jérémie Brieussel](https://imag.umontpe
 
 * Improvisational theatre.
 
-* Food, any kind of food.
