@@ -12,7 +12,7 @@ classes: wide
 
 
 PisaInternship:
-  - image_path: /_data/images/hurwitz_crossing.png
+  - image_path: /_data/images/hurwitz_crossings.png
     alt: "Possible crossings"
     excerpt: "Figure 1"
   - image_path: /_data/images/hurwitz_optipath.png
@@ -22,14 +22,14 @@ PisaInternship:
     alt: "Zip closing"
     excerpt: "Figure 3"
    
-MasterThesis:
-  - image_path: /_data/images/hurwitz_crossing.png
+GeodPaper:
+  - image_path: /_data/images/HoroPathThm.png
     alt: "Possible crossings"
     excerpt: "Figure 1"
-  - image_path: /_data/images/hurwitz_optipath.png
+  - image_path: /_data/images/HoroGeodThm.png
     alt: "Optimizing path"
     excerpt: "Figure 2"
-  - image_path: /_data/images/hurwitz_zip.png
+  - image_path: /_data/images/HoroBoundThm.png
     alt: "Zip closing"
     excerpt: "Figure 3"
     
@@ -39,6 +39,10 @@ master:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+# Geodesic and Visual boundary in horospherical products
+
+ {% include feature_row id="GeodPaper" %}
 
 # Hurwitz Problem
 
