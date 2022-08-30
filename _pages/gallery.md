@@ -33,8 +33,6 @@ GeodPaper:
     alt: "Zip closing"
     excerpt: "Figure 3"
     
-master:
-  -blabla
 
 ---
 
@@ -42,17 +40,20 @@ master:
 
 # Geodesic and Visual boundary in horospherical products
 
- {% include feature_row id="GeodPaper" %}
+{% include feature_row id="GeodPaper" %}
+
+
+# Separating profil and tree witdh
+
+Master thesis under the supervision of Jeremie Brieussel.
+
+{% include feature_row id="MasterThesis" %}
+ 
 
 # Hurwitz Problem
 
 Master internship at Pisa university, c, who made these three figures. They represent some combinatorial events for paths in a specific exagon tilling of the torus.
 
- {% include feature_row id="PisaInternship" %}
+{% include feature_row id="PisaInternship" %}
 
 
-# Separating profil and tree witdh
-
-Master thesis under the supervision of Jeremei Brieussel.
-
- {% include feature_row id="MasterThesis" %}
