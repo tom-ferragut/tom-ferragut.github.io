@@ -22,6 +22,7 @@ PisaInternship:
     alt: "Zip closing"
     excerpt: "Figure 3"
    
+   
 GeodPaper:
   - image_path: /_data/images/HoroPathThm.png
     alt: "Possible crossings"
@@ -33,12 +34,34 @@ GeodPaper:
     alt: "Zip closing"
     excerpt: "Figure 3"
     
+    
+QGeodPaper:
+  - image_path: /_data/images/BoxInHoro.png
+    alt: "Possible crossings"
+    excerpt: "Figure 1"
+  - image_path: /_data/images/VerticalTetra.png
+    alt: "Optimizing path"
+    excerpt: "Figure 2"
+  - image_path: /_data/images/SubQGeod.png
+    alt: "Zip closing"
+    excerpt: "Figure 3"
+    
 
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+
+# Quasi-isometry rigidity of quasi-isometry between horospherical products
+
+Proof of the splitting property of quasi-isometry in horospherical products.
+
+{% include feature_row id="QGeodPaper" %}
+
+
 # Geodesic and Visual boundary in horospherical products
+
+
 
 {% include feature_row id="GeodPaper" %}
 
