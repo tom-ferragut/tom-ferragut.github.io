@@ -39,12 +39,12 @@ We prove that there exists no branched cover from the torus to the sphere with d
 # Talks
 
 - <details><summary>
-November 2021: <i>Geometry of Horospherical products</i> at PLACE.</summary> <b> Abstract: </b>
+March 2022: <i>Geometry of Horospherical products</i> at PLACE.</summary> <b> Abstract: </b>
 FILS IN</details>
 \[[slides]({{ site.url }}/_data/Beamer_Horospherical_Products.pdf)\]
 
 - <details><summary>
-November 2022: <i>Geodesics and Visual Boundary of Horospherical products</i> at Young researchers meeting of the GDR Platon, CIRM, Luminy, Marseille.</summary> <b> Abstract: </b>
+November 2021: <i>Geodesics and Visual Boundary of Horospherical products</i> at Young researchers meeting of the GDR Platon, CIRM, Luminy, Marseille.</summary> <b> Abstract: </b>
 FILS IN</details>
 
 - <details><summary>
@@ -64,7 +64,7 @@ March 2020: <i>Horospherical products of Gromov hyperbolic spaces</i> at Bristol
 FILS IN</details>
 
 - <details><summary>
-March 2020: <i>Horospherical products of Gromov hyperbolic spaces</i> at Junior Topology and Group Theory Seminar</b>, University of Oxford.</summary> <b> Abstract: </b>
+March 2020: <i>Horospherical products of Gromov hyperbolic spaces</i> at Junior Topology and Group Theory Seminar, University of Oxford.</summary> <b> Abstract: </b>
 FILS IN</details>
 
 - <details><summary>
