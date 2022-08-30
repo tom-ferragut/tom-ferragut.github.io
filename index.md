@@ -4,17 +4,17 @@ title: "Webpage in Construction ..."
 author_profile: true
 ---
 
-## General
+## Contact
 
-<b> Webpage in Construction ... </b>
+* [tom dot ferragut at umontpellier dot fr]
+
+## General
 
 I'm currently a postdoctorant in geometric group theory in Kyoto University.
 
 I did my PhD under the supervision of [Jérémie Brieussel](https://imag.umontpellier.fr/~brieussel/accueileng.html) and [Constantin Vernicos](http://constantin.vernicos.org/) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
 
-You can contact me at any of the following:
 
-* [tom dot ferragut at umontpellier dot fr]
 
 ## Research interests
 
