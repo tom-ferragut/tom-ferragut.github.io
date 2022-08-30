@@ -11,13 +11,14 @@ classes: wide
 
 
 internship:
-  - image_path: /_data/images/building_interactions.png
-    alt: "interaction with blocks"
+  - image_path: /_data/images/hurwitz_crossing.eps
+    alt: "Possible crossings"
     excerpt: "Figure 1"
-  - image_path: /_data/images/cd_intuition.png
-    alt: "optimization"
+  - image_path: /_data/images/hurwitz_optipath.eps
+    alt: "Optimizing path"
     excerpt: "Figure 2"
-  - image_path: /_data/images/transcription_dna.png
+  - image_path: /_data/images/hurwitz_zip.eps
+    alt: "Zip closing"
     excerpt: "Figure 3"
     
 master:
@@ -28,12 +29,7 @@ master:
 {% include feature_row id="intro" type="center" %}
 # Hurwitz Problem
 
-Master thesis internship on the Elastic-Net estimator for the linear model with interactions using GPU acceleration.
-Internship under the supervision of Benjamin Charlier and Joseph Salmon.
-Based on the thesis work of Florent Bascou.
-[Git Repo](https://github.com/tanglef/interactionsmodel)
-
-[PDF report]({{ site.url }}/_data/communication/report_master.pdf)
+Master internship in at Pisa university, under the supervision of Carlo Petronio.
 
  {% include feature_row id="internship" %}
 
