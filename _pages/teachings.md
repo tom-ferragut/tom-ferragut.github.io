@@ -13,14 +13,14 @@ classes: wide
 
 {% include feature_row id="intro" type="center" %}
 
-# 2022 (60h)
+## 2022 (60h)
 
 - <details><summary>
 Arithmetic (60h)</summary>
 <b> Details: </b>
 Tutorials for 1st year students. </details>
 
-# 2021 (103h)
+## 2021 (103h)
 
 - <details><summary>
 Arithmetic (20h)</summary>
@@ -37,7 +37,7 @@ Mathematics for Biology (63h)</summary>
 <b> Details: </b>
 Tutorials for 1st year students. </details>
 
-# 2020 (86h)
+## 2020 (86h)
 
 - <details><summary>
 Mathematics for Biology (54h)</summary>
@@ -49,7 +49,7 @@ Linear Algebra (32h)</summary>
 <b> Details: </b>
 Tutorials for 2nd year students. </details>
 
-# 2019 (74h)
+## 2019 (74h)
 
 - <details><summary>
 Statistics for Biology (21h)</summary>
@@ -66,7 +66,7 @@ CESPROMA project (32h)</summary>
 <b> Details: </b>
 Support courses in mathematics for students in first year </details>
 
-# 2018 (32h)
+## 2018 (32h)
 
 - <details><summary>
 Group Theory (32h)</summary>
