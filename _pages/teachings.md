@@ -13,7 +13,7 @@ classes: wide
 
 {% include feature_row id="intro" type="center" %}
 
-# TD (320h)
+# Tutorials (320h)
 
 - <details><summary>
 2022: (60h) Arithmetic </summary>
