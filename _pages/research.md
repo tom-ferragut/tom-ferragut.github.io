@@ -74,5 +74,4 @@ FILS IN</details>
 
 # Attended Conferences
 
-- <details>
-February 2020: <i>NAME</i> at PLACE. </details>
+- February 2020: <i>NAME</i> at PLACE.
