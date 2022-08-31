@@ -20,24 +20,30 @@ PisaInternship:
     excerpt: "A way of optimizing the path in a (almost-)hexagonal tiling of a torus "
   - image_path: /_data/images/hurwitz_zip.png
     alt: "Zip closing"
-    excerpt: "A specific configuration of a bicolor hexagonal tiling of the torus, which end up to close like a "Zip"."
+    excerpt: "A specific configuration of a bicolor hexagonal tiling of the torus, which end up to close like a <i>Zip</i>."
    
    
 GeodPaper:
   - image_path: /_data/images/HoroPathThm.png
+    alt: ""
     excerpt: "Three vertical geodesics (in blue), surrounded by their constant neighbourhood. Since the metric is distorded in the Sol geometry, by staying close to these vertical geodesics, we can travel along them by going sufficiently hight or down."
   - image_path: /_data/images/HoroGeodThm.png
+    alt: ""
     excerpt: "The only three possible shapes of bi-infinite geodesics in a horospherical product."
   - image_path: /_data/images/HoroBoundThm.png
+    alt: ""
     excerpt: "A way of understanding the description of the visual boundary of a horospherical product."
     
     
 QGeodPaper:
   - image_path: /_data/images/SubQGeod.png
+    alt: ""
     excerpt: "A subdivision of a quasi-geodesic, leading to their coarse differentiation in a horospherical product."
   - image_path: /_data/images/VerticalTetra.png
+    alt: ""
     excerpt: "A specific configuration of four points linked by vertical geodesics, we call it vertical quadrilateral. It contains the metric rigidity behaviour of horospherical products."
   - image_path: /_data/images/BoxInHoro.png
+    alt: ""
     excerpt: "A box of the tiling of a horospherical product. This tiling is well suited for working along with the vertical flow of the spaces."
     
 
