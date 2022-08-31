@@ -14,37 +14,31 @@ classes: wide
 PisaInternship:
   - image_path: /_data/images/hurwitz_crossings.png
     alt: "Possible crossings"
-    excerpt: "Figure 1"
+    excerpt: "Possible crossings of a tile by a loop in a torus tiling."
   - image_path: /_data/images/hurwitz_optipath.png
     alt: "Optimizing path"
-    excerpt: "Figure 2"
+    excerpt: "A way of optimizing the path in a (almost-)hexagonal tiling of a torus "
   - image_path: /_data/images/hurwitz_zip.png
     alt: "Zip closing"
-    excerpt: "Figure 3"
+    excerpt: "A specific configuration of a bicolor hexagonal tiling of the torus, which end up to close like a "Zip"."
    
    
 GeodPaper:
   - image_path: /_data/images/HoroPathThm.png
-    alt: "Possible crossings"
-    excerpt: "Figure 1"
+    excerpt: "Three vertical geodesics (in blue), surrounded by their constant neighbourhood. Since the metric is distorded in the Sol geometry, by staying close to these vertical geodesics, we can travel along them by going sufficiently hight or down."
   - image_path: /_data/images/HoroGeodThm.png
-    alt: "Optimizing path"
-    excerpt: "Figure 2"
+    excerpt: "The only three possible shapes of bi-infinite geodesics in a horospherical product."
   - image_path: /_data/images/HoroBoundThm.png
-    alt: "Zip closing"
-    excerpt: "Figure 3"
+    excerpt: "A way of understanding the description of the visual boundary of a horospherical product."
     
     
 QGeodPaper:
-  - image_path: /_data/images/BoxInHoro.png
-    alt: "Possible crossings"
-    excerpt: "Figure 1"
-  - image_path: /_data/images/VerticalTetra.png
-    alt: "Optimizing path"
-    excerpt: "Figure 2"
   - image_path: /_data/images/SubQGeod.png
-    alt: "Zip closing"
-    excerpt: "Figure 3"
+    excerpt: "A subdivision of a quasi-geodesic, leading to their coarse differentiation in a horospherical product."
+  - image_path: /_data/images/VerticalTetra.png
+    excerpt: "A specific configuration of four points linked by vertical geodesics, we call it vertical quadrilateral. It contains the metric rigidity behaviour of horospherical products."
+  - image_path: /_data/images/BoxInHoro.png
+    excerpt: "A box of the tiling of a horospherical product. This tiling is well suited for working along with the vertical flow of the spaces."
     
 
 ---
@@ -54,14 +48,14 @@ QGeodPaper:
 
 # Quasi-isometry rigidity of quasi-isometry between horospherical products
 
-Proof of the splitting property of quasi-isometry in horospherical products.
+Key elements of the proof of the splitting property of quasi-isometry in horospherical products.
 
 {% include feature_row id="QGeodPaper" %}
 
 
 # Geodesic and Visual boundary in horospherical products
 
-
+The geometry of a horospherical product are quite rigid. It allows us to provide a description of its geodedesics and visual boundary.
 
 {% include feature_row id="GeodPaper" %}
 
@@ -75,7 +69,7 @@ Master thesis under the supervision of Jeremie Brieussel.
 
 # Hurwitz Problem
 
-Master internship at Pisa university, c, who made these three figures. They represent some combinatorial events for paths in a specific exagon tilling of the torus.
+Master internship at Pisa university, c, who made these three figures. They represent some combinatorial events for paths in a specific exagon tiling of the torus.
 
 {% include feature_row id="PisaInternship" %}
 
