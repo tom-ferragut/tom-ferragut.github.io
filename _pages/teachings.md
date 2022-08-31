@@ -63,4 +63,4 @@ Support courses in mathematics for students in first year </details>
 - <details><summary>
 2018: (32h) Group Theory </summary>
 <b> Details: </b>
-utorials for 3rd year students. </details>
+Tutorials for 3rd year students. </details>
