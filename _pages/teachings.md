@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Teachings"
+permalink: /teachings/
 author_profile: true
 header:
   overlay_color: "#000"
