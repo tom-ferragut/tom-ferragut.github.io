@@ -19,8 +19,7 @@ classes: wide
 June 2022: <i>Geometry of horospherial products.</i>
 by T. Ferragut. [PhD manuscript]</summary>
 <b> Abstract: </b>
-BLABLA </details>
-\[[ArXiv](https://arxiv.org/pdf/2009.04698)\] 
+ </details>
 
 - <details><summary>
 September 2020: <i>Geodesics and Visual boundary of Horospherical Products</i>
