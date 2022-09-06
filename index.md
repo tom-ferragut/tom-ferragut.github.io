@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Webpage in Construction ..."
+title: "Tom Ferragut Webpage"
 author_profile: true
 ---
 
