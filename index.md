@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tom Ferragut Webpage"
-author_profile: true
+author_profile: false
 ---
 
 ## Contact
