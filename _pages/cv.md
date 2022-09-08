@@ -2,7 +2,7 @@
 title: "CV"
 permalink: /cv/
 ---
-## Full-CV (last update 02-2022)
+## Full-CV
 
 * English version [CV]({{ site.url }}/_data/CV_en.pdf)
 
