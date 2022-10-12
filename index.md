@@ -4,19 +4,18 @@ title: "Tom Ferragut Webpage"
 author_profile: true
 ---
 
-<div id="logo">
+<div>
 <table border="0" style="width:100%">
 		<tbody>
           <tr >
             <td style="text-align: center; width: 50%">
-            <h1 style="margin-left: 20px">U</h1>
-			<h2 style="margin-left: 20px;font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]umontpellier[dot]fr</span></h2>
+            <h1 style="font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]umontpellier[dot]fr</span></h2>
             </td>
 			
             <td style="text-align: center">
               <img style="border-color:orange; width: 140px; height: 210px;border-radius: 10px"
 
-                  src="documents/picture.JPG" title="Tom Ferragut"
+                  src="/_data/picture.JPG" title="Tom Ferragut"
 
                   border= "6" >
             </td>
@@ -25,9 +24,6 @@ author_profile: true
     </table>
 </div>
 
-## Contact
-
-* [tom dot ferragut at umontpellier dot fr]
 
 ## General
 
