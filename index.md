@@ -9,8 +9,7 @@ author_profile: true
 		<tbody>
           <tr >
             <td style="text-align: center; width: 50%">
-            <h1 style="margin-left: 20px">U</h1>
-			<h2 style="margin-left: 20px;font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]umontpellier[dot]fr</span></h2>
+            <h1 style="margin-left: 20px;font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]umontpellier[dot]fr</span></h2>
             </td>
 			
             <td style="text-align: center">
@@ -25,9 +24,6 @@ author_profile: true
     </table>
 </div>
 
-## Contact
-
-* [tom dot ferragut at umontpellier dot fr]
 
 ## General
 
