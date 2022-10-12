@@ -3,7 +3,9 @@ layout: single
 title: "Tom Ferragut Webpage"
 author_profile: true
 ---
+<img style="border-color:orange; width: 140px; height: 210px;border-radius: 10px"
 
+src="/_data/picture.JPG" title="Tom Ferragut" border= "6" >
 ## Contact
 
 * [tom dot ferragut at umontpellier dot fr]
