@@ -4,7 +4,7 @@ permalink: /cv/
 ---
 ## Full-CV
 
-* English version [CV]({{ site.url }}/_data/CV_en.pdf)
+* English version <a href="/_data/CV_en.pdf" target="_blank">CV</a>
 
 ## Summary
 
