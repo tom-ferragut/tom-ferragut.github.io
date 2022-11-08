@@ -8,6 +8,10 @@ permalink: /cv/
 
 ## Summary
 
+<b>Research</b>
+* 11/2022 - 12/2022: Guest young researcher at the Universty of Fribourg.
+* 07/2022 - 10/2022: JSPS post-doc fellowship at Kyoto University. 
+
 <b>Studies</b>
 * 2018-2022: P.h.D "<i>Geometry of horospherical products</i>" under the supervision of Jeremie Brieussel and Constantin Vernicos at Montpellier University.
 * 2017-2018: Montpellier University, Master degree 
