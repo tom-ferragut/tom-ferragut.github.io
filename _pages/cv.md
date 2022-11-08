@@ -27,7 +27,7 @@ Under the supervision of Carlo Petronio.
 Under the supervision of Anne-Marie Kermarrec.
 
 <b>Teaching & Responsabilities</b>
-* 2018-2022: 320h of tutorials, from first to third year students.
+* 2018-2022: 350h of tutorials, from first to third year students.
 * 2019-2020: Organizer of the Mathematic PhD student Seminar of Montpellier, with Alan Pinoy.
 
 
