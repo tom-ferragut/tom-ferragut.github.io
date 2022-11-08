@@ -16,6 +16,15 @@ classes: wide
 # Publications
 
 - <details><summary>
+November 2022: <i>Geometric rigidity of quasi-isometries in horospherical products</i>
+by T. Ferragut. [Preprint]</summary>
+<b> Abstract: </b>
+We prove that quasi-isometries of horospherical products of hyperbolic spaces are geometrically rigid in the sense that they are uniformly close to product maps, this is a generalisation of the result obtained by Eskin, Fisher and Whyte in [7]. 
+Our work covers the case of solvable Lie groups of the form R % (N1 × N2), where N1 and N2 are nilpotent Lie groups, and where the action on R contracts the metric on N1 while extending it on N2. 
+We obtain new quasi-isometric invariants and classifications for these spaces. </details>
+\[[HAL](https://hal.archives-ouvertes.fr/hal-03843098)\] 
+
+- <details><summary>
 June 2022: <i>Geometry of horospherial products.</i>
 by T. Ferragut. [PhD manuscript]</summary>
 <b> Abstract: </b>
