@@ -24,15 +24,6 @@ Our work covers the case of solvable Lie groups of the form R % (N1 × N2), wher
 We obtain new quasi-isometric invariants and classifications for these spaces. </details>
 \[[HAL](https://hal.archives-ouvertes.fr/hal-03843098)\] 
 
-- <details><summary>
-June 2022: <i>Geometry of horospherial products.</i>
-by T. Ferragut. [PhD manuscript]</summary>
-<b> Abstract: </b>
-In this manuscript we study the geometry of some metric spaces called horospherical product. They are constructed out of two Gromov hyperbolic spaces, and contains both discrete or continuous examples such as the Diestel-Leader graphs, the SOL geometry or the treebolic spaces.
-In the first part of this manuscript, we consider two proper, geodesically complete, Gromov hyperbolic, Busemann spaces X and Y . We construct their horospherical product X ⋈ Y and, after some metric estimations on specific paths in Gromov hyperbolic spaces, we describe a family of distances on X ⋈ Y . More specifically, we show that all these distances produce the same large scale geometry for X ⋈ Y . This description allows us to depict the shape of geodesic segments and geodesic lines. The understanding of the geodesics’ behaviour leads us to the characterization of the visual boundary of X ⋈ Y .
-For the second part, the two spaces X and Y are endowed with measures. Thanks to these measures, we manage to achieve the geometric rigidity of self quasi-isometries of X ⋈ Y . More specifically, we show that every self quasi-isometry of X ⋈ Y is close to a product map. To do so, we first develop several metric and measure theoretic tools regarding a specific family of geodesic called vertical geodesics. These tools include the coarse differentiation, introduced by Eskin, Fisher and Whyte for the horospherical product of regular infinite trees and hyperbolic planes. Afterwards, generalising techniques they presented, we obtain geometric rigidity.
-In the last chapter we present an example on how to use this geometric rigidity on X ⋈ Y in order to get informations on its quasi-isometry group. More precisely, we provide a description of the quasi-isometry group of a family of solvable Lie groups.</details>
-\[[Pdf](/_data/Tom_Ferragut_Phd.pdf)\] 
 
 - <details><summary>
 September 2020: <i>Geodesics and Visual boundary of Horospherical Products</i>
@@ -47,6 +38,17 @@ by T. Ferragut, C. Petronio</summary>
 <b> Abstract: </b>
 We prove that there exists no branched cover from the torus to the sphere with degree 3h and 3 branching points in the target with local degrees (3,...,3), (3,...,3), (4,2,3,...,3) at their preimages. The result was already established by Izmestiev, Kusner, Rote, Springborn, and Sullivan, using geometric techniques, and by Corvaja and Zannier with a more algebraic approach, whereas our proof is topological and completely elementary: besides the definitions, it only uses the fact that on the torus a simple closed curve can only be trivial (in homology, or equivalently bounding a disc, or equivalently separating) or non-trivial. </details>
 \[[ArXiv](https://arxiv.org/pdf/1805.00305)\] 
+
+<b> Phd: </b>
+<details><summary>
+June 2022: <i>Geometry of horospherial products.</i>
+by T. Ferragut. [PhD manuscript]</summary>
+<b> Abstract: </b>
+In this manuscript we study the geometry of some metric spaces called horospherical product. They are constructed out of two Gromov hyperbolic spaces, and contains both discrete or continuous examples such as the Diestel-Leader graphs, the SOL geometry or the treebolic spaces.
+In the first part of this manuscript, we consider two proper, geodesically complete, Gromov hyperbolic, Busemann spaces X and Y . We construct their horospherical product X ⋈ Y and, after some metric estimations on specific paths in Gromov hyperbolic spaces, we describe a family of distances on X ⋈ Y . More specifically, we show that all these distances produce the same large scale geometry for X ⋈ Y . This description allows us to depict the shape of geodesic segments and geodesic lines. The understanding of the geodesics’ behaviour leads us to the characterization of the visual boundary of X ⋈ Y .
+For the second part, the two spaces X and Y are endowed with measures. Thanks to these measures, we manage to achieve the geometric rigidity of self quasi-isometries of X ⋈ Y . More specifically, we show that every self quasi-isometry of X ⋈ Y is close to a product map. To do so, we first develop several metric and measure theoretic tools regarding a specific family of geodesic called vertical geodesics. These tools include the coarse differentiation, introduced by Eskin, Fisher and Whyte for the horospherical product of regular infinite trees and hyperbolic planes. Afterwards, generalising techniques they presented, we obtain geometric rigidity.
+In the last chapter we present an example on how to use this geometric rigidity on X ⋈ Y in order to get informations on its quasi-isometry group. More precisely, we provide a description of the quasi-isometry group of a family of solvable Lie groups.</details>
+\[[Pdf](/_data/Tom_Ferragut_Phd.pdf)\] 
 
 # Talks
 
