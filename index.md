@@ -27,7 +27,7 @@ author_profile: true
 
 ## General
 
-I'm currently a guest young researcher at the University of Fribourg. Before that, I did a three months research project with professor Ryokichi Tanaka at Kyoto University under the short-term post-doc fellowship funded by the JSPS (Japan society for the promotion of science).
+I'm currently a guest young researcher at the University of Fribourg. Before that, I did a three months research project with Professor [Ryokichi Tanaka](https://ryokichitanaka.github.io/) at Kyoto University under the short-term post-doc fellowship funded by the JSPS (Japan society for the promotion of science).
 
 I did my PhD under the supervision of [Jérémie Brieussel](https://imag.umontpellier.fr/~brieussel/accueileng.html) and [Constantin Vernicos](http://constantin.vernicos.org/) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
 
