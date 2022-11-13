@@ -97,6 +97,6 @@ FILS IN</details>
 February 2020: <i>What if the shortest path is not a straight line ?</i> at Journée des doctorant.e.s, University of Montpellier.</summary> <b> Abstract: </b>
 FILS IN</details>
 
-# Attended Conferences
+%% # Attended Conferences
 
-- February 2020: <i>NAME</i> at PLACE.
+%% - February 2020: <i>NAME</i> at PLACE.
