@@ -53,6 +53,17 @@ In the last chapter we present an example on how to use this geometric rigidity 
 # Talks
 
 - <details><summary>
+October 2022: <i>Geometry and quasi-isometry rigidity of horospherical products.</i> at Differential Topology Seminar, Kyoto University.</summary> <b> Abstract: </b>
+Horospherical products of two Gromov hyperbolic spaces where introduced to unify the construction of metric spaces such as Diestel-Leader graphs, the Sol geometry or treebolic spaces. In this talk we will first recall all the bases required to construct these horospherical products. Then we will study their large scale geometry through a descritption of their geodesics and visual boundary.
+Afterwards we will get interested in a geometric rigidity property of their quasi-isometries. This result will lead us to a description of the quasi-isometry group of solvable Lie groups constructed as horospherical products.</details>
+\[[slides]({{ site.url }}/_data/KyotoSeminar.pdf)\]
+
+- <details><summary>
+May 2022: <i>Geometry of horospherical products.</i> at Rencontres mathématiques à Sète. Géométrie, topologie et dynamique en basses dimensions, Sète.</summary> <b> Abstract: </b>
+Horospherical products of two Gromov hyperbolic spaces where introduced to unify the construction of metric spaces such as Diestel-Leader graphs, the Sol geometry or treebolic spaces. These examples, coming either from geometric group theory or from the study of solvable Lie groups, share similar rigidity properties.
+In this talk we will first recall all the bases required to construct these horospherical products. Then we will study their large scale geometry through a geometric rigidity property of their self quasi-isometries. This result will lead us to a description of the quasi-isometry group of solvable Lie groups constructed as horospherical products.</details>
+
+- <details><summary>
 April 2022: <i>Quasi-isometry rigidity of horospherical products and quasi-isometry group of some solvable Lie groups.</i> at Geometry and Topology Seminar, Bowling Green University, Ohio.</summary> <b> Abstract: </b>
 Horospherical products of two Gromov hyperbolic spaces where introduced to unify the construction of metric spaces such as Diestel-Leader graphs, the Sol geometry or treebolic spaces. These examples, coming either from geometric group theory or from the study of solvable Lie groups, share similar rigidity properties.
 In this talk we will first recall all the bases required to construct these horospherical products. Then we will study their large scale geometry through a geometric rigidity property of their self quasi-isometries. This result will lead us to a description of the quasi-isometry group of solvable Lie groups constructed as horospherical products.</details>
