@@ -22,7 +22,7 @@ by T. Ferragut. [Preprint]</summary>
 We prove that quasi-isometries of horospherical products of hyperbolic spaces are geometrically rigid in the sense that they are uniformly close to product maps, this is a generalisation of the result obtained by Eskin, Fisher and Whyte in [7]. 
 Our work covers the case of solvable Lie groups of the form R % (N1 × N2), where N1 and N2 are nilpotent Lie groups, and where the action on R contracts the metric on N1 while extending it on N2. 
 We obtain new quasi-isometric invariants and classifications for these spaces. </details>
-\[[HAL](https://hal.archives-ouvertes.fr/hal-03843098)\] 
+\[[ArXiv](https://arxiv.org/abs/2211.04093)\] 
 
 
 - <details><summary>
