@@ -34,7 +34,7 @@ Horospherical products of two hyperbolic spaces unify the construction of metric
 
 - <details><summary>
 May 2018: <i>Elementary solution of an infinite sequence of instances of the Hurwitz problem</i>
-by T. Ferragut, C. Petronio</summary>
+by T. Ferragut, C. Petronio. Rendiconti Lincei Matematica E Applicazioni 29(2):297-307</summary>
 <b> Abstract: </b>
 We prove that there exists no branched cover from the torus to the sphere with degree 3h and 3 branching points in the target with local degrees (3,...,3), (3,...,3), (4,2,3,...,3) at their preimages. The result was already established by Izmestiev, Kusner, Rote, Springborn, and Sullivan, using geometric techniques, and by Corvaja and Zannier with a more algebraic approach, whereas our proof is topological and completely elementary: besides the definitions, it only uses the fact that on the torus a simple closed curve can only be trivial (in homology, or equivalently bounding a disc, or equivalently separating) or non-trivial. </details>
 \[[ArXiv](https://arxiv.org/pdf/1805.00305)\] 
