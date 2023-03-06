@@ -52,7 +52,7 @@ In the last chapter we present an example on how to use this geometric rigidity 
 
 # Talks
 - <details><summary>
-February 2023: <i>Quasi-isometry classification of solvable Lie groups as Carnot type horospherical products.</i> University of Lausanne.</summary> <b> Abstract: </b>
+February 2023: <i>Quasi-isometry classification of solvable Lie groups as Carnot type horospherical products.</i> at Séminaire groupes et analyse, Université de Neuchâtel.</summary> <b> Abstract: </b>
 Horospherical products of two Gromov hyperbolic spaces where introduced to unify the construction of metric spaces such as Diestel-Leader graphs, the Sol geometry or treebolic spaces. In this talk we will first present the bases required to construct these horospherical products. Then, we will get interested in a geometric rigidity property of their quasi-isometries.  Using this geometric rigidity in combination with Pansu derivative, we will show that in the context of Carnot groups, context that we will introduce during the talk, we can achieve a quasi-isometry classification for Carnot type horospherical products.</details>
 
 - <details><summary>
