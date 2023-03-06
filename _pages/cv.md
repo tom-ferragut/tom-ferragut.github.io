@@ -9,7 +9,7 @@ permalink: /cv/
 ## Summary
 
 <b>Research</b>
-* 11/2022 - 12/2022: Guest young researcher at the Universty of Fribourg.
+* 01/2023 - today: Postdoc at the Universty of Fribourg.
 * 07/2022 - 10/2022: JSPS post-doc fellowship at Kyoto University. 
 
 <b>Studies</b>
