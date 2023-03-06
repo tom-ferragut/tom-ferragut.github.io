@@ -17,7 +17,7 @@ classes: wide
 
 - <details><summary>
 November 2022: <i>Geometric rigidity of quasi-isometries in horospherical products</i>
-by T. Ferragut. [Preprint]</summary>
+by T. Ferragut. [Submitted]</summary>
 <b> Abstract: </b>
 We prove that quasi-isometries of horospherical products of hyperbolic spaces are geometrically rigid in the sense that they are uniformly close to product maps, this is a generalisation of the result obtained by Eskin, Fisher and Whyte in [7]. 
 Our work covers the case of solvable Lie groups of the form R % (N1 × N2), where N1 and N2 are nilpotent Lie groups, and where the action on R contracts the metric on N1 while extending it on N2. 
@@ -27,7 +27,7 @@ We obtain new quasi-isometric invariants and classifications for these spaces. <
 
 - <details><summary>
 September 2020: <i>Geodesics and Visual boundary of Horospherical Products</i>
-by T. Ferragut. [Preprint]</summary>
+by T. Ferragut. [Submitted]</summary>
 <b> Abstract: </b>
 Horospherical products of two hyperbolic spaces unify the construction of metric spaces such as the Diestel-Leader graphs, the SOL geometry or the treebolic spaces. Given two proper, geodesically complete, Gromov hyperbolic, Busemann spaces Hp and Hq, we study the geometry of their horospherical product H:=Hp⋈Hq through a description of its geodesics. Specifically we introduce a large family of distances on Hp⋈Hq. We show that all these distances produce the same large scale geometry. This description allows us to depict the shape of geodesic segments and geodesic lines. The understanding of the geodesics' behaviour leads us to the characterization of the visual boundary of the horospherical products. Our results are based on metric estimates on paths avoiding horospheres in a Gromov hyperbolic space. </details>
 \[[ArXiv](https://arxiv.org/pdf/2009.04698)\] 
