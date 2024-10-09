@@ -27,7 +27,7 @@ author_profile: true
 
 ## General
 
-I'm currently teaching at a technical school in brittany (IUT de Vannes).
+I'm currently teaching at a technical school in Brittany (IUT de Vannes).
 
 My PhD has been supervised by [Jérémie Brieussel](https://imag.umontpellier.fr/~brieussel/accueileng.html) and [Constantin Vernicos](http://constantin.vernicos.org/) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
 
