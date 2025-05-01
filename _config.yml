@@ -16,7 +16,6 @@
 title: Home
 email: tom dot ferragut at univ-ubs dot fr
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website in construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tom-ferragut.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tom-ferragut
@@ -83,8 +82,8 @@ defaults:
 author:
   name: "Tom Ferragut"
   avatar: 
-  bio: "Postdoctorant in Geometric group theory" # Note: Markdown is allowed
-  location: "Fribourg, Switzerland"
+  bio: "Teaching mathematics at IUT de Vannes" # Note: Markdown is allowed
+  location: "Vannes, France"
   email            : "tom dot ferragut at univ-ubs dot fr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
