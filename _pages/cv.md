@@ -9,7 +9,8 @@ permalink: /cv/
 ## Summary
 
 <b>Research</b>
-* 01/2023 - today: Postdoc at the Universty of Fribourg.
+* 10/2023 - today: Teaching position at the University UBS
+* 01/2023 - 09/2023: Postdoc at the Universty of Fribourg.
 * 07/2022 - 10/2022: JSPS post-doc fellowship at Kyoto University. 
 
 <b>Studies</b>
