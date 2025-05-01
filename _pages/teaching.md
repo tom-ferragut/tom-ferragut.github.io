@@ -13,6 +13,12 @@ classes: wide
 
 {% include feature_row id="intro" type="center" %}
 
+## 2025 (192h)
+
+## 2024 (384h)
+
+## 2023 (140h)
+
 ## 2022 (60h)
 
 - <details><summary>
