@@ -9,7 +9,8 @@ permalink: /cv/
 ## Summary
 
 <b>Research</b>
-* 10/2023 - Today: Teaching position at the University UBS
+* 09/2025 - Today : Teaching position at University Lyon 1 
+* 10/2023 - 08/2025: Teaching position at the University UBS
 * 01/2023 - 09/2023: Postdoc at the Universty of Fribourg.
 * 07/2022 - 10/2022: JSPS post-doc fellowship at Kyoto University. 
 
