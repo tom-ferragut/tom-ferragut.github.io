@@ -9,7 +9,7 @@ author_profile: true
 		<tbody>
           <tr >
             <td style="text-align: center; width: 50%">
-            <h1 style="margin-left: 20px;font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]univ-ubs[dot]fr</span></h1>
+            <h1 style="margin-left: 20px;font-size : 1.2em">Contact : <span>tom[dot]ferragut[at]univ-lyon1[dot]fr</span></h1>
             </td>
 			
             <td style="text-align: center">
@@ -27,7 +27,7 @@ author_profile: true
 
 ## General
 
-I'm currently teaching at a technical school in Brittany (IUT de Vannes).
+I'm currently in a teaching position at University Lyon 1.
 
 My PhD has been supervised by [Jérémie Brieussel](https://imag.umontpellier.fr/~brieussel/accueileng.html) and [Constantin Vernicos](http://constantin.vernicos.org/) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier).
 
